@@ -1,4 +1,4 @@
-# IOPEN Testnet Activity Journal
+# IOPN Testnet Activity Journal
 
 ### July 20, 2026
 - Testing the IOPN network node status.
